@@ -1,0 +1,1 @@
+"""Daily GitHub analytics worker."""
