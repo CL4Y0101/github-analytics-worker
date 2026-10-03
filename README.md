@@ -26,6 +26,7 @@ Data → Worker → Analytics → JSON/CSV → Dashboard
 .github/workflows/daily.yml  Daily and manual automation
 data/json/                  Date-based JSON reports
 data/csv/                   Date-based CSV reports
+data/activity/              Daily synthetic activity markers
 src/models.py               Job and report data types
 src/analytics.py            Sources, jobs, and calculations
 src/worker.py               Command-line entry point and persistence
@@ -63,7 +64,7 @@ Tests cover job boundaries and IDs, file formats, calculations, dashboard conten
 
 ## GitHub Actions
 
-The [daily workflow](.github/workflows/daily.yml) runs at `20:00 UTC` (about `03:00 WIB` the next day) and supports manual dispatch. It checks out the repository, sets up Python 3.12, installs test dependencies, runs tests, then runs the worker. It stages only the generated JSON, CSV, and dashboard. A commit named `chore: daily analytics YYYY-MM-DD` is pushed to the branch only when those files change. The workflow uses `contents: write`; repository settings must allow GitHub Actions to write to the branch.
+The [daily workflow](.github/workflows/daily.yml) runs at `20:00 UTC` (about `03:00 WIB` the next day) and supports manual dispatch. It checks out the repository, sets up Python 3.12, installs test dependencies, and runs the worker. It commits changed JSON, CSV, and dashboard artifacts once, then creates enough synthetic activity markers for a deterministic total of 10–40 commits per WIB date. A same-day rerun skips markers already committed. The workflow uses `contents: write`; repository settings must allow GitHub Actions to write to the branch.
 
 ## Output examples
 
