@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-26T23:36:06Z",
+  "total_jobs": 57,
+  "successful_jobs": 57,
+  "failed_jobs": 0,
+  "success_rate": 100.0,
+  "average_duration_ms": 339.02,
+  "results": [
+    {
+      "job_id": 1,
+      "metric": "commits",
+      "value": 133,
+      "status": "success",
+      "duration_ms": 290
+    },
+    {
+      "job_id": 2,
+      "metric": "pull_requests",
+      "value": 76,
+      "status": "success",
+      "duration_ms": 322
+    },
+    {
+      "job_id": 3,
+      "metric": "issues",
+      "value": 125,
+      "status": "success",
+      "duration_ms": 510
+    },
+    {
+      "job_id": 4,
+      "metric": "stars",
+      "value": 103,
+      "status": "success",
+      "duration_ms": 155
+    },
+    {
+      "job_id": 5,
+      "metric": "forks",
+      "value": 96,
+      "status": "success",
+      "duration_ms": 524
+    },
+    {
+      "job_id": 6,
+      "metric": "workflow_runs",
+      "value": 129,
+      "status": "success",
+      "duration_ms": 230
+    },
+    {
+      "job_id": 7,
+      "metric": "commits",
+      "value": 161,
+      "status": "success",
+      "duration_ms": 442
+    },
+    {
+      "job_id": 8,
+      "metric": "pull_requests",
+      "value": 113,
+      "status": "success",
+      "duration_ms": 425
+    },
+    {
+      "job_id": 9,
+      "metric": "issues",
+      "value": 142,
+      "status": "success",
+      "duration_ms": 442
+    },
+    {
+      "job_id": 10,
+      "metric": "stars",
+      "value": 144,
+      "status": "success",
+      "duration_ms": 348
+    },
+    {
+      "job_id": 11,
+      "metric": "forks",
+      "value": 121,
+      "status": "success",
+      "duration_ms": 413
+    },
+    {
+      "job_id": 12,
+      "metric": "workflow_runs",
+      "value": 99,
+      "status": "success",
+      "duration_ms": 322
+    },
+    {
+      "job_id": 13,
+      "metric": "commits",
+      "value": 131,
+      "status": "success",
+      "duration_ms": 391
+    },
+    {
+      "job_id": 14,
+      "metric": "pull_requests",
+      "value": 98,
+      "status": "success",
+      "duration_ms": 414
+    },
+    {
+      "job_id": 15,
+      "metric": "issues",
+      "value": 114,
+      "status": "success",
+      "duration_ms": 488
+    },
+    {
+      "job_id": 16,
+      "metric": "stars",
+      "value": 138,
+      "status": "success",
+      "duration_ms": 147
+    },
+    {
+      "job_id": 17,
+      "metric": "forks",
+      "value": 100,
+      "status": "success",
+      "duration_ms": 270
+    },
+    {
+      "job_id": 18,
+      "metric": "workflow_runs",
+      "value": 90,
+      "status": "success",
+      "duration_ms": 188
+    },
+    {
+      "job_id": 19,
+      "metric": "commits",
+      "value": 112,
+      "status": "success",
+      "duration_ms": 166
+    },
+    {
+      "job_id": 20,
+      "metric": "pull_requests",
+      "value": 146,
+      "status": "success",
+      "duration_ms": 292
+    },
+    {
+      "job_id": 21,
+      "metric": "issues",
+      "value": 148,
+      "status": "success",
+      "duration_ms": 546
+    },
+    {
+      "job_id": 22,
+      "metric": "stars",
+      "value": 116,
+      "status": "success",
+      "duration_ms": 175
+    },
+    {
+      "job_id": 23,
+      "metric": "forks",
+      "value": 87,
+      "status": "success",
+      "duration_ms": 511
+    },
+    {
+      "job_id": 24,
+      "metric": "workflow_runs",
+      "value": 127,
+      "status": "success",
+      "duration_ms": 103
+    },
+    {
+      "job_id": 25,
+      "metric": "commits",
+      "value": 116,
+      "status": "success",
+      "duration_ms": 307
+    },
+    {
+      "job_id": 26,
+      "metric": "pull_requests",
+      "value": 117,
+      "status": "success",
+      "duration_ms": 267
+    },
+    {
+      "job_id": 27,
+      "metric": "issues",
+      "value": 134,
+      "status": "success",
+      "duration_ms": 161
+    },
+    {
+      "job_id": 28,
+      "metric": "stars",
+      "value": 120,
+      "status": "success",
+      "duration_ms": 567
+    },
+    {
+      "job_id": 29,
+      "metric": "forks",
+      "value": 107,
+      "status": "success",
+      "duration_ms": 162
+    },
+    {
+      "job_id": 30,
+      "metric": "workflow_runs",
+      "value": 100,
+      "status": "success",
+      "duration_ms": 415
+    },
+    {
+      "job_id": 31,
+      "metric": "commits",
+      "value": 118,
+      "status": "success",
+      "duration_ms": 129
+    },
+    {
+      "job_id": 32,
+      "metric": "pull_requests",
+      "value": 93,
+      "status": "success",
+      "duration_ms": 422
+    },
+    {
+      "job_id": 33,
+      "metric": "issues",
+      "value": 111,
+      "status": "success",
+      "duration_ms": 522
+    },
+    {
+      "job_id": 34,
+      "metric": "stars",
+      "value": 146,
+      "status": "success",
+      "duration_ms": 495
+    },
+    {
+      "job_id": 35,
+      "metric": "forks",
+      "value": 135,
+      "status": "success",
+      "duration_ms": 516
+    },
+    {
+      "job_id": 36,
+      "metric": "workflow_runs",
+      "value": 126,
+      "status": "success",
+      "duration_ms": 208
+    },
+    {
+      "job_id": 37,
+      "metric": "commits",
+      "value": 123,
+      "status": "success",
+      "duration_ms": 135
+    },
+    {
+      "job_id": 38,
+      "metric": "pull_requests",
+      "value": 163,
+      "status": "success",
+      "duration_ms": 436
+    },
+    {
+      "job_id": 39,
+      "metric": "issues",
+      "value": 119,
+      "status": "success",
+      "duration_ms": 417
+    },
+    {
+      "job_id": 40,
+      "metric": "stars",
+      "value": 109,
+      "status": "success",
+      "duration_ms": 305
+    },
+    {
+      "job_id": 41,
+      "metric": "forks",
+      "value": 109,
+      "status": "success",
+      "duration_ms": 556
+    },
+    {
+      "job_id": 42,
+      "metric": "workflow_runs",
+      "value": 137,
+      "status": "success",
+      "duration_ms": 487
+    },
+    {
+      "job_id": 43,
+      "metric": "commits",
+      "value": 105,
+      "status": "success",
+      "duration_ms": 452
+    },
+    {
+      "job_id": 44,
+      "metric": "pull_requests",
+      "value": 105,
+      "status": "success",
+      "duration_ms": 362
+    },
+    {
+      "job_id": 45,
+      "metric": "issues",
+      "value": 96,
+      "status": "success",
+      "duration_ms": 342
+    },
+    {
+      "job_id": 46,
+      "metric": "stars",
+      "value": 151,
+      "status": "success",
+      "duration_ms": 222
+    },
+    {
+      "job_id": 47,
+      "metric": "forks",
+      "value": 166,
+      "status": "success",
+      "duration_ms": 215
+    },
+    {
+      "job_id": 48,
+      "metric": "workflow_runs",
+      "value": 120,
+      "status": "success",
+      "duration_ms": 536
+    },
+    {
+      "job_id": 49,
+      "metric": "commits",
+      "value": 132,
+      "status": "success",
+      "duration_ms": 104
+    },
+    {
+      "job_id": 50,
+      "metric": "pull_requests",
+      "value": 89,
+      "status": "success",
+      "duration_ms": 231
+    },
+    {
+      "job_id": 51,
+      "metric": "issues",
+      "value": 67,
+      "status": "success",
+      "duration_ms": 401
+    },
+    {
+      "job_id": 52,
+      "metric": "stars",
+      "value": 145,
+      "status": "success",
+      "duration_ms": 406
+    },
+    {
+      "job_id": 53,
+      "metric": "forks",
+      "value": 84,
+      "status": "success",
+      "duration_ms": 121
+    },
+    {
+      "job_id": 54,
+      "metric": "workflow_runs",
+      "value": 88,
+      "status": "success",
+      "duration_ms": 235
+    },
+    {
+      "job_id": 55,
+      "metric": "commits",
+      "value": 126,
+      "status": "success",
+      "duration_ms": 328
+    },
+    {
+      "job_id": 56,
+      "metric": "pull_requests",
+      "value": 94,
+      "status": "success",
+      "duration_ms": 418
+    },
+    {
+      "job_id": 57,
+      "metric": "issues",
+      "value": 133,
+      "status": "success",
+      "duration_ms": 330
+    }
+  ]
+}
